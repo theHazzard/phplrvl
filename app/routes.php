@@ -16,7 +16,7 @@ Route::get('/', function()
 	return View::make('hello');
 });
 
-Route::get('users', function()
+Route::get('joaquinRearte', function()
 {
-	return 'te amo majo';
+	return 'Alo Alo';
 });
