@@ -20,3 +20,8 @@ Route::get('joaquinRearte', function()
 {
 	return 'Alo Alo';
 });
+
+Route::get('hazzard', function()
+{
+	return 'soy un dios de la matrix';
+});
